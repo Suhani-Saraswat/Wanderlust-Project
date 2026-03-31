@@ -1,5 +1,11 @@
 # 🌍 Wanderlust Project
 
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![Render](https://img.shields.io/badge/Deployment-Render-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A full-stack travel listing web application inspired by modern booking platforms where users can explore destinations, create listings, upload images, and manage travel stays.
 
 ---
